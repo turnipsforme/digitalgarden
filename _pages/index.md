@@ -1,3 +1,6 @@
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
 ---
 layout: page
 title: Home
